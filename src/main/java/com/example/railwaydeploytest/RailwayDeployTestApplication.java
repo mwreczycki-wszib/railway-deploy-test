@@ -1,13 +1,13 @@
-package com.example.payu;
+package com.example.railwaydeploytest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PayUApplication {
+public class RailwayDeployTestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PayUApplication.class, args);
+		SpringApplication.run(RailwayDeployTestApplication.class, args);
 	}
 
 }
