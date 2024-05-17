@@ -1,10 +1,10 @@
-package com.example.railwaydeploytest;
+package com.example.payu;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RailwayDeployTestApplicationTests {
+class PayUApplicationTests {
 
 	@Test
 	void contextLoads() {
